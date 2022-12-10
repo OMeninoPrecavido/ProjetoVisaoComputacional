@@ -1,2 +1,2 @@
 # ProjetoVisaoComputacional
-Projeto Breakout usando segmentação de imagem.
+Projeto Breakout usando detecção de movimento de objetos vermelhos.
