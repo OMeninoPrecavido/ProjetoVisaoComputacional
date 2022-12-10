@@ -21,7 +21,7 @@ while True:
 
 
 
-    cv2.imshow('frame',frame)
+    cv2.imshow('frame', frame[:, ::-1, :])
     if cv2.waitKey(1) == ord('q'):
         break
 
